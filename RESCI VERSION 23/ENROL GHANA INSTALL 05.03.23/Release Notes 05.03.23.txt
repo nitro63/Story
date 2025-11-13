@@ -1,0 +1,9 @@
+RESCI
+
+Date: 28-AUg-2019
+Ver:  05.03.23
+
+Changes:
+1. Fixed bug relating to using an Atmel Operator Card when issuing a Java Client Card
+2. Added additional logging into the EventLog (to log messages sent to the ACS Reader)
+3. Also now logs the RESCI version and Operator Name and Operator USN who has logged on
